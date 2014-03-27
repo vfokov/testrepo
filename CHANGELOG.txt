@@ -1,6 +1,5 @@
-
 Drupal 7.23, 2013-08-07
------------------------
+-----------------------feferferferferferferferf
 - Fixed a fatal error on PostgreSQL databases when updating the Taxonomy module
   from Drupal 6 to Drupal 7.
 - Fixed the default ordering of CSS files for sites using right-to-left
