@@ -1,0 +1,90 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> 
+  <loc>http://www.miicard.com/</loc>
+    <video:video>     
+      <video:content_loc>http://az149020.vo.msecnd.net/video/miicard_tour.mp4</video:content_loc>
+      <video:thumbnail_loc>http://www.miicard.com/sites/default/files/video_screen_tour.png</video:thumbnail_loc>
+      <video:title>Online identity verification service miiCard</video:title>  
+      <video:description>miiCard (My Internet Identity) is an identity verification service that lets you prove your real identity purely on the web to create trust online</video:description>
+      <video:publication_date>2012-09-21</video:publication_date>
+      <video:tag>online identity verification</video:tag>
+      <video:tag>miicard</video:tag>
+      <video:duration>117</video:duration>
+    </video:video>
+</url>
+<url> 
+  <loc>http://www.miicard.com/why-use-it</loc>
+    <video:video>     
+      <video:content_loc>http://az149020.vo.msecnd.net/video/trust_online.mp4</video:content_loc>
+      <video:thumbnail_loc>http://www.miicard.com/sites/default/files/cover_howmiicardcreatestrust_small.png</video:thumbnail_loc>
+      <video:title>ID verification service miiCard creates trust online by proving real identities</video:title>  
+      <video:description>miiCard builds trust online by proving real identities on the web. Take control of your digital identity today with miiCard.</video:description>
+      <video:publication_date>2012-10-12</video:publication_date>
+      <video:tag>trust online</video:tag>
+      <video:tag>online trust</video:tag>
+      <video:duration>204</video:duration>
+    </video:video>
+</url>
+<url> 
+  <loc>http://www.miicard.com/safe-and-secure</loc>
+    <video:video>     
+      <video:content_loc>http://az149020.vo.msecnd.net/video/miicardsecurity_sdmp4.mp4</video:content_loc>
+      <video:thumbnail_loc>http://www.miicard.com/sites/default/files/cover_1minuteonsecurity.png</video:thumbnail_loc>
+      <video:title>miiCard online identity verification | security and account protection</video:title>  
+      <video:description>As an online identity service, security and protection is, and always will be, our first concern. Learn more about miiCard security and account protection here.</video:description>
+      <video:publication_date>2012-10-23</video:publication_date>
+      <video:duration>69</video:duration>
+    </video:video>
+</url>
+<url> 
+  <loc>http://www.miicard.com/blog/201210/protecting-your-miicard-account</loc>
+    <video:video>     
+      <video:content_loc>http://az149020.vo.msecnd.net/video/protectingyourmiicard_sdmp4.mp4</video:content_loc>
+      <video:thumbnail_loc>http://www.miicard.com/sites/default/files/cover_protectingyourmiicard_small.png</video:thumbnail_loc>
+      <video:title>miiCard online identity verification | protecting your miiCard account</video:title>  
+      <video:description>How miiCard protects your account - see how account protection features</video:description>
+      <video:publication_date>2012-10-23</video:publication_date>
+      <video:tag>online identity verification</video:tag>
+      <video:duration>84</video:duration>
+    </video:video>
+</url>
+<url> 
+  <loc>http://www.miicard.com/partners/financial-services</loc>
+    <video:video>     
+      <video:content_loc>http://az149020.vo.msecnd.net/video/miicard_finovateeurope2012.mp4</video:content_loc>
+      <video:thumbnail_loc>http://www.miicard.com/sites/default/files/video_screen_finovate.png</video:thumbnail_loc>
+      <video:title>miiCard in Financial Services replacing offline identity checks</video:title>  
+      <video:description>miiCard verifies the identities of your customers to a Level of Assurance 3 (LOA 3) purely online and in real-time, removing the need for offline checks and processing.</video:description>
+      <video:publication_date>2012-09-21</video:publication_date>
+      <video:tag>online identity verification</video:tag>
+      <video:duration>433</video:duration>
+    </video:video>
+</url>
+<url> 
+  <loc>http://www.miicard.com/for/linkedin</loc>
+    <video:video>     
+      <video:content_loc>http://az149020.vo.msecnd.net/video/miicard_linkedin.mp4</video:content_loc>
+      <video:thumbnail_loc>http://www.miicard.com/sites/default/files/video_screen_linkedin.png</video:thumbnail_loc>
+      <video:title>Verify your identity on LinkedIn with miiCard</video:title>  
+      <video:description>Verify your identity for LinkedIn in minutes - with a validated miiCard identity you can create trust on all your social networks | www.miiCard.com</video:description>
+      <video:publication_date>2012-09-21</video:publication_date>
+      <video:tag>verify your identity on linkedin</video:tag>
+      <video:tag>linkedin validation</video:tag>
+      <video:duration>52</video:duration>
+    </video:video>
+</url>
+<url> 
+  <loc>http://www.miicard.com/for/twitter</loc>
+    <video:video>     
+      <video:content_loc>http://az149020.vo.msecnd.net/video/miicard_twitter.mp4</video:content_loc>
+      <video:thumbnail_loc>http://www.miicard.com/sites/default/files/video_screen_twitter.png</video:thumbnail_loc>
+      <video:title>Verify your identity for Twitter in minutes with miiCard</video:title>  
+      <video:description>Verify your identity for Twitter in minutes - with a validated miiCard identity you can create trust on all your social networks | www.miiCard.com</video:description>
+      <video:publication_date>2012-09-21</video:publication_date>
+      <video:tag>verify your identity on twitter</video:tag>
+      <video:tag>twitter validation</video:tag>
+      <video:duration>47</video:duration>
+    </video:video>
+</url>
+</urlset>
